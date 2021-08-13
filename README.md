@@ -1,4 +1,4 @@
-# Faster Fog Computing based Over-the-air VehicularUpdates: A Transfer Learning Approach 
+# Faster Fog Computing based Over-the-air Vehicular Updates: A Transfer Learning Approach 
 
 Authors:
 Md Al Maruf, Anil Singh, Akramul Azim, Nitin Auluck
