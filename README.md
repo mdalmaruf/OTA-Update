@@ -9,7 +9,7 @@ Md Al Maruf, Anil Singh, Akramul Azim, Nitin Auluck
 
 ## [Download](https://ieeexplore.ieee.org/abstract/document/9496152)
 
-## Supplemental Materials
+## Supplemental Materials [Download](https://github.com/mdalmaruf/OTA-Update/blob/c480ca2d180b516a0f7261070bd52e4454c469dc/Faster%20Fog%20Computing%20OTA%20Update-Transfer%20Learning%20Approach%20(Supplemental%20Materials).pdf)
 
-> Please find the supplemental materials over here. [PDF](https://github.com/mdalmaruf/OTA-Update/blob/c480ca2d180b516a0f7261070bd52e4454c469dc/Faster%20Fog%20Computing%20OTA%20Update-Transfer%20Learning%20Approach%20(Supplemental%20Materials).pdf)
+> Please find the supplemental materials over here. The file is uploades as pdf in this Repository. [PDF](https://github.com/mdalmaruf/OTA-Update/blob/c480ca2d180b516a0f7261070bd52e4454c469dc/Faster%20Fog%20Computing%20OTA%20Update-Transfer%20Learning%20Approach%20(Supplemental%20Materials).pdf)
 
