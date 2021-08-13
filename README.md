@@ -11,5 +11,5 @@ Md Al Maruf, Anil Singh, Akramul Azim, Nitin Auluck
 
 ## Supplemental Materials
 
-> Please find the supplemental materials over here. [PDF](Faster Fog Computing OTA Update-Transfer Learning Approach (Supplemental Materials).pdf)
+> Please find the supplemental materials over here. [PDF](https://github.com/mdalmaruf/OTA-Update/blob/c480ca2d180b516a0f7261070bd52e4454c469dc/Faster%20Fog%20Computing%20OTA%20Update-Transfer%20Learning%20Approach%20(Supplemental%20Materials).pdf)
 
