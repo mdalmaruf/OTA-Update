@@ -26,7 +26,7 @@ Md Al Maruf, Anil Singh, Akramul Azim, Nitin Auluck
 - Fog nodes and vehicles are implemented as Virtual Machines (VMs) using the QEMU virtualizer.
   - VMs run on separate laptops.
   - QEMU emulates the ARM hardware architecture.
-- Integration of a pre-existing OTA update framework: Uptane [27].
+- Integration of a pre-existing OTA update framework: [Uptane] (https://uptane.github.io/).
 - VM Setup:
   - Multiple VMs created, representing different fog nodes and vehicles/cars.
   - Each VM has 4GB RAM and runs Linux.
