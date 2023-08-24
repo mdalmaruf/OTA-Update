@@ -13,3 +13,29 @@ Md Al Maruf, Anil Singh, Akramul Azim, Nitin Auluck
 
 > Please find the supplemental materials over here. The file is uploades as pdf in this Repository. [PDF](https://github.com/mdalmaruf/OTA-Update/blob/c480ca2d180b516a0f7261070bd52e4454c469dc/Faster%20Fog%20Computing%20OTA%20Update-Transfer%20Learning%20Approach%20(Supplemental%20Materials).pdf)
 
+## Simulation and Testbed Details
+
+### Simulation
+- Conducted using OTA update time through Mininet-WiFi.
+- Components involved:
+  - Handover delay
+  - Propagation delay
+
+### Testbed
+- Fog nodes connected through network routers with varying WiFi ranges.
+- Fog nodes and vehicles are implemented as Virtual Machines (VMs) using the QEMU virtualizer.
+  - VMs run on separate laptops.
+  - QEMU emulates the ARM hardware architecture.
+- Integration of a pre-existing OTA update framework: Uptane [27].
+- VM Setup:
+  - Multiple VMs created, representing different fog nodes and vehicles/cars.
+  - Each VM has 4GB RAM and runs Linux.
+- Connection specifications:
+  - Connection established through a 300Mbps N TPLink wireless router (TL-WR841N).
+  - Utilizes TCP/IP for data transmission.
+  - Maximum router coverage: approximately 70 meters.
+- Fog Node Distribution:
+  - Three fog nodes (1, 2, and 3) positioned 30 meters from the router.
+  - Fog nodes are uniformly distributed in a cluster.
+- Vehicles in the Cluster:
+  - Eight (8) VMs represent vehicles.
